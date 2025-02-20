@@ -4,6 +4,15 @@ body {
     background: linear-gradient(135deg, #6a11cb 10%, #2575fc 100%);
 }
 
+@media (max-width: 600px) {
+    .btn {
+        height: 150px;
+        width: 150px;
+        margin: 1rem;
+    }
+}
+
+
 .btn{
     height: 200px;
     width: 200px;
